@@ -1,0 +1,67 @@
+#header, #footer{
+	margin: 10px 0px 10px 0px;
+}
+
+#lastMonth, #nextMonth, #syukkin, #taikin, #getsumatsu, #outputExcel{
+	margin: 10px 0px 10px 0px;
+}
+
+#content1, #content2{
+	table-layout: fixed;
+}
+
+.table--extend>tbody>tr>td{
+	vertical-align: middle;
+}
+.table--extend>tbody>tr>td>div>span{
+	margin: auto;
+}
+
+#content2{
+    width: 968px;
+}
+
+.holiday{
+	background-color: #999999;
+}
+.holiday:hover{
+	background-color: #999999!important;
+}
+
+.day, .week{
+	width: 40px;
+}
+
+.syukkinjikan, .taikinjikan, .kyukeijikan1, .kyukeijikan2, .jitsumujikan{
+	width: 100px;
+}
+
+.sagyonaiyo{
+	width: 200px;
+}
+
+.state, .syonin{
+	width: 160px;
+}
+
+.total, .working-day, .working-time, .latenight-time, .basic-time, .overtime, .EOM-app-state, .state{
+    width: 120px;
+}
+.total, .EOM-app-state{
+	background-color: #bfbfbf;
+}
+
+.form-group{
+	margin-bottom: 0px;
+}
+
+label{
+	font-size: 80%;
+}
+
+input.noborder{
+    padding: 2px 4px;
+    outline: 0;
+    border: 0px;
+    background: transparent;
+}

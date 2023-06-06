@@ -1,0 +1,19 @@
+#header{
+	margin: 10px 0px 10px 0px;
+}
+
+table{
+	table-layout: fixed;
+}
+
+.staffname{
+	width: 100px;
+}
+
+.loginid{
+	width: 200px;
+}
+
+.syukkinstate, .edit, .delete{
+	width: 100px;
+}
